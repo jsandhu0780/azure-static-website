@@ -1,0 +1,5 @@
+location="eastus"
+rg-name="rg-jsandhutf07-demo"
+storage-account-name="jsandhutf07demo"
+index_document="index.html"
+source_content="<h1>Hey Friends, this website was deployed with Terraform on Azure storage.</h1>"
